@@ -1,4 +1,4 @@
-# MHRice_Wrangle
+# MHRice_Wrangler
 Wrangles data from the MHRice database: https://github.com/wwylele/mhrice
 
 Currently outputs:
